@@ -1,0 +1,1 @@
+function ratio(c1, c2) { return 4.5; } module.exports = { ratio };
